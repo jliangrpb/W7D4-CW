@@ -29,3 +29,22 @@ button,
 input[type="submit"] {
 
 }
+
+img {
+    display: block;
+    width: 100%;
+    height: auto;
+}
+
+ul,
+ol {
+    list-style: none;
+}
+
+input {
+    appearance: none;
+}
+
+button {
+    cursor: pointer;
+}
